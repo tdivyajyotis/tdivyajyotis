@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/codercuber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codercuber" height="30" width="40" /></a>
 <a href="/tdivyajyotis.github.io/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="tdivyajyotis.github.io/feed.xml" height="30" width="40" /></a>
-  <text> @Lucas42#0815 on Discord </text>
+  <text> @tdivyajyotis on Discord </text>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tdivyajyotis&show_icons=true&locale=en&layout=compact" alt="tdivyajyotis" /></p>
